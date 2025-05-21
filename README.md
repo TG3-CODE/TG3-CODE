@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Gayatri Talluri
 
-🎓 Computer Science grad student at DePaul University  
-💻 Passionate about building apps that solve real-world problems  
-🏆 1st Place Winner at PROpel Hackathon for building **DeConnect**  
-🌱 Currently learning ML,SwiftUI and building iOS apps.  
+💻 Passionate about building apps that solve real-world problems 
+🎓 I'm a  versatile Computer Science graduate student at DePaul University with hands-on experience across a wide range of technologies including **Java, C, HTML, CSS, JavaScript, React.js, Swift, and SwiftUI**.
+🚀 My current focus is on building **engaging iOS applications using SwiftUI**, while also expanding my knowledge in **machine learning** and **algorithmic problem-solving**.
+🎯 These experiences have strengthened my technical skills and my ability to collaborate in team-based environments.
 📍 Based in Chicago, IL  
 
 ---
