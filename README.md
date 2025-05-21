@@ -53,7 +53,7 @@ Discover, navigate, and rate tourist destinations with your own travel buddy app
 📍 Chicago, Illinois
 
 ---
-![Visitor Count](https://shields.io/badge/dynamic/json?color=success&label=visitors&query=value&url=https://api.countapi.xyz/hit/TG3-CODE.TG3-CODE/visits)
+<img src="https://api.countapi.xyz/hit/TG3-CODE.TG3-CODE/visits?style=flat-square" alt="visitor badge"/>
 
 ---
 
