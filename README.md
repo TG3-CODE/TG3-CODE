@@ -53,6 +53,8 @@ Discover, navigate, and rate tourist destinations with your own travel buddy app
 📍 Chicago, Illinois
 
 ---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TG3-CODE.TG3-CODE)
+
 
 ## 🌱 Beyond the Code
 
