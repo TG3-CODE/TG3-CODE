@@ -55,4 +55,6 @@ Discover, navigate, and rate tourist destinations with your own travel buddy app
 🌟 *“Code with purpose. Learn with passion. Build to inspire.”*
 
 - ⚡ Fun fact: I love math and enjoy solving logical puzzles, I’m also a fan of music and video games.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TG3-CODE&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TG3-CODE&layout=compact&theme=tokyonight)
 
