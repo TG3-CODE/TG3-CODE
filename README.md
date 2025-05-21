@@ -3,7 +3,7 @@
 🎓 Computer Science grad student at DePaul University  
 💻 Passionate about building apps that solve real-world problems  
 🏆 1st Place Winner at PROpel Hackathon for building **DeConnect**  
-🌱 Currently learning SwiftUI and building iOS apps  
+🌱 Currently learning ML,SwiftUI and building iOS apps.  
 📍 Based in Chicago, IL  
 
 ---
