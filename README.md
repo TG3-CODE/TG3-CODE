@@ -2,7 +2,7 @@
 
 🎓 I'm a Passionate and versatile Computer Science graduate student at DePaul University with hands-on experience across a wide range of technologies including **Java, C, HTML, CSS, JavaScript, React.js, Swift, and SwiftUI**.
 🚀 My current focus is on building **engaging iOS applications using SwiftUI**, while also expanding my knowledge in **machine learning** and **algorithmic problem-solving**.
-📍 Based in Chicago, IL  
+Check out my work here on GitHub or connect with me on LinkedIn!
 
 ---
 
@@ -53,10 +53,6 @@ Discover, navigate, and rate tourist destinations with your own travel buddy app
 📍 Chicago, Illinois
 
 ---
-<img src="https://api.countapi.xyz/hit/TG3-CODE.TG3-CODE/visits?style=flat-square" alt="visitor badge"/>
-
----
-
 
 ## 🌱 Beyond the Code
 
