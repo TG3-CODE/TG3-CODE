@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Gayatri Talluri
 
-🎓 I'm a Passionate and versatile Computer Science graduate student at DePaul University with hands-on experience across a wide range of technologies including **Java, C, HTML, CSS, JavaScript, React.js, Swift, and SwiftUI**.
-🚀 My current focus is on building **engaging iOS applications using SwiftUI**, while also expanding my knowledge in **machine learning** and **algorithmic problem-solving**.
-Check out my work here on GitHub or connect with me on LinkedIn!
+🎓 MS Computer Science @ DePaul University | Graduating March 2026
 
+💼 Software Engineer | Previously: Software Engineering Intern @ Meeedly
+
+💻 Tech Stack: React • Python • JavaScript • Machine Learning • iOS (Swift/SwiftUI)
+
+📫 Connect: [https://www.linkedin.com/in/gayatri-talluri-03tsvg925/) | gayatri092023@gmail.com
 ---
 
 ## 🛠️ Tech Stack
